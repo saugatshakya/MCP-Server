@@ -1,8 +1,11 @@
 # Assignment 7: AI Agent & MCP Integration
 
-**Student Name:** Saugat Shakya (st125986)
-**Student ID:**
+**Student Name:** Saugat Shakya
+<br>
+**Student ID:** st125986
+<br>
 **Course:** AT82.05 Natural Language Understanding (NLU)
+<br>
 **Date:** March 29, 2026
 
 ---
